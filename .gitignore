@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*.ckpt
+*.pt
+*.pth
+outputs/
