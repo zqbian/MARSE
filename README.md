@@ -3,7 +3,8 @@
 Minimal inference release for **Multi-Array Region Speech Extraction (MARSE)**.
 This directory intentionally includes only the final model path and WAV
 inference code. Training, dataset generation, losses, and experiment-specific
-branches are not included.
+branches are not included. The complete codebase will be released in a future
+update.
 
 ## Setup
 
